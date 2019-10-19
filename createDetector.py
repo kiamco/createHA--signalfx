@@ -14,7 +14,7 @@ debug = 1                          # 1 for HTTP logging, 0 for none
 
 
 # Set up for API calls
-detectorurl = 'https://api.signalfx.com/v2/detector'
+detectorurl = '<redacted>'
 headers = {'X-SF-TOKEN': <redacted>', 'Content-Type': 'application/json'}
 
 if debug:
